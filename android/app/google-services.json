@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "269809485569",
+    "project_id": "food-delivery-beb90",
+    "storage_bucket": "food-delivery-beb90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269809485569:android:19129ccd178c11e953bd00",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbc0ydawUVIoI6sKh4-xjRL6dwmBlR1Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269809485569:android:601d0ccbd832b23453bd00",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliveryappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbc0ydawUVIoI6sKh4-xjRL6dwmBlR1Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269809485569:android:4fe3e7ded8619b9d53bd00",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app_vs_010"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbc0ydawUVIoI6sKh4-xjRL6dwmBlR1Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
